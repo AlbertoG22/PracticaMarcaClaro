@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: "FontAwesome";
+    src: url("fontawesome-webfont.woff");
+}
+
+li {
+    list-style: none !important;
+}
+#barca{
+   position: relative;
+   
+}
